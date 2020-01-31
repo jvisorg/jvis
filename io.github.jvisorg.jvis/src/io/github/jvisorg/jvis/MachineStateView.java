@@ -1,4 +1,4 @@
-package io.github.btj.jvis;
+package io.github.jvisorg.jvis;
 
 import org.eclipse.swt.widgets.Canvas;
 import org.eclipse.swt.widgets.Composite;
